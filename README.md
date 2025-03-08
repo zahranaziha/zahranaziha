@@ -1,6 +1,10 @@
 # Hi there 👋, I'm Zahra Naziha!
 
-Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer.
+### 🚀 About Me
+- 🎓 I’m currently studying Information Technology at Universitas Sumatera Utara  
+- 💡 Passionate about Technology and Web Development  
+- 🛠 Exploring Machine Learning, Backend Development, and Cloud Computing  
+- 🎯 2024 Goals: Contribute more to Open Source & Build cool projects  
 
 ## Tools:
 
@@ -30,4 +34,4 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 
 ## Let's connect!
 
-[Website](https://bagusfe.id) | [Zahra Naziha](https://facebook.com/bagusfrayoga) | [@bagusfedotid](https://twitter.com/bagusfedotid) | [PayPal](https://paypal.me/)
+[Email](mailto:youremail@example.com) | [Instagram]([https://instagram.com](https://www.instagram.com/zahranaziha_?igsh=MXJpOGllY2Jpcmc4dw%3D%3D&utm_source=qr)/yourinstagram) | [LinkedIn](www.linkedin.com/in/zahranaziha/in/yourlinkedin)
