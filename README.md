@@ -34,4 +34,14 @@
 
 ## Let's connect!
 
-[Email](mailto:nazihazahra370@gmail.com) | [Instagram]([https://instagram.com](https://www.instagram.com/zahranaziha_?igsh=MXJpOGllY2Jpcmc4dw%3D%3D&utm_source=qr)) | [LinkedIn](www.linkedin.com/in/zahranaziha)
+<p align="center">
+  <a href="https://www.linkedin.com/in/zahranaziha" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/zahranaziha" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
