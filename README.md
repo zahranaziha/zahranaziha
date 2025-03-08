@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNqbjVwdTA4NWZwNXhuMXkzdDVnZXNkdmJtdXRtNmkya3ozZWtzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y1eRcnAP3dvgeKhhx6/giphy.gif" width="50px">
-  Hi there, I'm Zahra! 👋  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNqbjVwdTA4NWZwNXhuMXkzdDVnZXNkdmJtdXRtNmkya3ozZWtzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y1eRcnAP3dvgeKhhx6/giphy.gif" width="50px">
+  <img src="https://tenor.com/htBxcCeyjym.gif" width="50"> Hi there, I'm Zahra! 👋 <img src="https://tenor.com/htBxcCeyjym.gif" width="50">
 </h1>
 
 <p align="center">
