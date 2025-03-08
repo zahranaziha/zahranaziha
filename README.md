@@ -11,10 +11,10 @@
 ## 🌷 About Me 🌷  
 - 🎓 Studying Information Technology at Universitas Sumatera Utara  
 - 💡 Passionate about Tech, Web Development & UI/UX  
-- 🛠 Exploring Machine Learning, Backend Dev & Cloud Computing  
-- 🎯 2024 Goals: Contribute more to Open Source & Build cute & cool projects!  
+- 🛠  Trying to become a graphic designer
+- 🎯 My goal by 2025 is to complete all tasks without being a deadliner
 - 🌸 Pinky girl!  
-- 🎨 Love sketch and kuromi ofc!
+- 🎨 Love sketch, design and kuromi ofc!
 
 ---
 
