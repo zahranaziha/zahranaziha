@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Zahra Naziha!
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;AI+&+Data+Enthusiast+🤖;Open+Source+Contributor+🌍">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;Open+Source+Contributor+🌍">
 </p>
 
 ### 🚀 About Me
