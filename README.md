@@ -1,32 +1,41 @@
-## Hi there, I'm Zahra Naziha! 👋
+# Hi there 👋, I'm Zahra Naziha!
 
-### 🚀 About Me
-- 🎓 I’m currently studying Information Technology at Universitas Sumatera Utara  
-- 💡 Passionate about Technology and Web Development  
-- 🛠 Exploring Machine Learning, Backend Development, and Cloud Computing  
-- 🎯 2024 Goals: Contribute more to Open Source & Build cool projects  
+Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer.
 
-### 🔥 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vscode,figma" />
+## Tools:
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahranaziha&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahranaziha&theme=radical" />
-</p>
+## Stats:
 
-### 🌍 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/zahranaziha" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/zahranaziha" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### ▶ What I am learning/working on these days
+
+**Den Bagus' GitHub Stats**
+
+- ⭐ Total Stars: 0  
+- 📅 Total Commits (2020): 206  
+- 🛠️ Total Issues: 0  
+
+![A+](https://via.placeholder.com/100)
+
+### Most Used Languages:
+
+![Java](https://img.shields.io/badge/Java-48.05%25-orange)
+![Dart](https://img.shields.io/badge/Dart-46.91%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-2.34%25-yellow)
+![HTML](https://img.shields.io/badge/HTML-1.39%25-red)
+![Kotlin](https://img.shields.io/badge/Kotlin-1.31%25-purple)
+
+## Let's connect!
+
+[Website](https://bagusfe.id) | [Bagus Frayoga](https://facebook.com/bagusfrayoga) | [@bagusfedotid](https://twitter.com/bagusfedotid) | [PayPal](https://paypal.me/)
