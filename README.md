@@ -20,14 +20,14 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 
 ### ▶ What I am learning/working on these days
 
-**Den Bagus' GitHub Stats**
+**Zahra' GitHub Stats**
 
-![Bagus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Zahra' GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahranaziha&show_icons=true&theme=dark)
 
 ### Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahranaziha&layout=compact&theme=dark)
 
 ## Let's connect!
 
-[Website](https://bagusfe.id) | [Bagus Frayoga](https://facebook.com/bagusfrayoga) | [@bagusfedotid](https://twitter.com/bagusfedotid) | [PayPal](https://paypal.me/)
+[Website](https://bagusfe.id) | [Zahra Naziha](https://facebook.com/bagusfrayoga) | [@bagusfedotid](https://twitter.com/bagusfedotid) | [PayPal](https://paypal.me/)
