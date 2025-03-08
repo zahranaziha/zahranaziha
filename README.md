@@ -32,7 +32,10 @@
 ![Zahra' GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahranaziha&show_icons=true&theme=dark)
 
 ## 🚀 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahranaziha&theme=dark" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahranaziha&theme=react-dark" alt="Contribution Graph" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=zahranaziha&theme=darkhub&margin-w=15" alt="GitHub Trophies" /> </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zahranaziha&theme=dark" alt="GitHub Streak" />  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zahranaziha&theme=react-dark" alt="Contribution Graph" />  
+<img src="https://github-profile-trophy.vercel.app/?username=zahranaziha&theme=darkhub&margin-w=15" alt="GitHub Trophies" />
 
 ## Let's connect!
 
