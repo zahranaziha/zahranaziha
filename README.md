@@ -1,4 +1,8 @@
-<h1 align="center">🎀 Hi there, I'm Zahra! 👋 🎀</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNqbjVwdTA4NWZwNXhuMXkzdDVnZXNkdmJtdXRtNmkya3ozZWtzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y1eRcnAP3dvgeKhhx6/giphy.gif" width="50px">
+  Hi there, I'm Zahra! 👋  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNqbjVwdTA4NWZwNXhuMXkzdDVnZXNkdmJtdXRtNmkya3ozZWtzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y1eRcnAP3dvgeKhhx6/giphy.gif" width="50px">
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF69B4&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🌸;Full-Stack+Developer+💻;Open+Source+Contributor+🌍">
