@@ -1,5 +1,5 @@
+<h1 align="center">Hi there, I'm Zahra 👋</h1>
 <p align="center">
-# Hi there 👋, I'm Zahra Naziha!
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;Open+Source+Contributor+🌍">
 </p>
 
