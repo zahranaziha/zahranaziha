@@ -22,19 +22,11 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 
 **Den Bagus' GitHub Stats**
 
-- ⭐ Total Stars: 0  
-- 📅 Total Commits (2020): 206  
-- 🛠️ Total Issues: 0  
-
-![A+](https://via.placeholder.com/100)
+![Bagus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
 
 ### Most Used Languages:
 
-![Java](https://img.shields.io/badge/Java-48.05%25-orange)
-![Dart](https://img.shields.io/badge/Dart-46.91%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-2.34%25-yellow)
-![HTML](https://img.shields.io/badge/HTML-1.39%25-red)
-![Kotlin](https://img.shields.io/badge/Kotlin-1.31%25-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
 
 ## Let's connect!
 
