@@ -8,11 +8,13 @@
 - 🎓 Studying Information Technology at Universitas Sumatera Utara  
 - 💡 Passionate about Tech, Web Development & UI/UX  
 - 🛠 Exploring Machine Learning, Backend Dev & Cloud Computing  
-- 🎯 2024 Goals: Contribute more to Open Source & Build cute & cool projects!  
+- 🎯 2024 Goals: Contribute more to Open Source & Build cute & cool projects!
+- 🌸 Pink is my favorite color!  
+- 🎨 I love designing & drawing
 
 ---
 
-💖 **Tools & Tech I Love** 💖  
+**Tools**   
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,16 +30,7 @@
 
 ---
 
-🎀 **Fun Facts About Me** 🎀  
-- 🌸 Pink is my favorite color! 💖  
-- 🎨 I love designing & drawing cute things! ✏️  
-- 🎶 Obsessed with K-pop girl groups & aesthetic vibes~  
-- 🍓 Sweet treats & bubble tea make my day! ☕  
-- ✈️ Dreaming of traveling to Japan & South Korea someday!  
-
----
-
-📊 **GitHub Stats & Activity** 📊  
+**GitHub Stats & Activity**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahranaziha&layout=compact&theme=tokyonight" />
