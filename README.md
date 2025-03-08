@@ -41,7 +41,7 @@
   <a href="https://www.instagram.com/zahranaziha" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:nazihazahra370@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
