@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;Open+Source+Contributor+🌍">
 </p>
 
-## 🚀 About Me
+### 🚀 About Me
 - 🎓 I’m currently studying Information Technology at Universitas Sumatera Utara  
 - 💡 Passionate about Technology and Web Development  
 - 🛠 Exploring Machine Learning, Backend Development, and Cloud Computing  
 - 🎯 2024 Goals: Contribute more to Open Source & Build cool projects  
 
-## Tools:
+### Tools:
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,21 +23,21 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-## Most Used Languages:
+### Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahranaziha&layout=compact&theme=dark)
 
-## Zahra Naziha' GitHub Stats
+### Zahra Naziha' GitHub Stats
 
 ![Zahra' GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahranaziha&show_icons=true&theme=dark)
 
-## 🚀 GitHub Stats & Activity
+### 🚀 GitHub Stats & Activity
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahranaziha&theme=dark" alt="GitHub Streak" />  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahranaziha&theme=react-dark" alt="Contribution Graph" />  
 <img src="https://github-profile-trophy.vercel.app/?username=zahranaziha&theme=darkhub&margin-w=15" alt="GitHub Trophies" />
 
-## Let's connect!
+### Let's connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zahranaziha" target="_blank">
