@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;Open+Source+Contributor+🌍">
 </p>
 
-### 🚀 About Me
+## 🚀 About Me
 - 🎓 I’m currently studying Information Technology at Universitas Sumatera Utara  
 - 💡 Passionate about Technology and Web Development  
 - 🛠 Exploring Machine Learning, Backend Development, and Cloud Computing  
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### Most Used Languages:
+## Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahranaziha&layout=compact&theme=dark)
 
