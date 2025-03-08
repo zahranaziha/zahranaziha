@@ -34,9 +34,9 @@ Repository Praktikum IMK
   <a href="www.linkedin.com/in/reka-oktavia-br-sihombing-3a5760342" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+ <a href="[https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/zahranaziha_?igsh=MXJpOGllY2Jpcmc4dw%3D%3D&utm_source=qr)" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
   <a href="mailto:YOUR_EMAIL">
     <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
