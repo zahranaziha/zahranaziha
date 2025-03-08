@@ -30,12 +30,18 @@
 
 ---
 
-## **GitHub Stats & Activity**  
+## **Most Used Languages:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahranaziha&layout=compact&theme=tokyonight)  
-![Zahra' GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahranaziha&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahranaziha&theme=tokyonight)  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zahranaziha&theme=pink-passion)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahranaziha&layout=compact&theme=dark)
+
+## **Zahra Naziha' GitHub Stats**
+
+![Zahra' GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahranaziha&show_icons=true&theme=dark)
+
+## **GitHub Stats & Activity**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zahranaziha&theme=dark" alt="GitHub Streak" />  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zahranaziha&theme=react-dark" alt="Contribution Graph" />  
 
 ---
 
