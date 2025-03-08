@@ -13,8 +13,8 @@
 - 💡 Passionate about Tech, Web Development & UI/UX  
 - 🛠 Exploring Machine Learning, Backend Dev & Cloud Computing  
 - 🎯 2024 Goals: Contribute more to Open Source & Build cute & cool projects!  
-- 🌸 Pink is my favorite color!  
-- 🎨 I love designing & drawing  
+- 🌸 Pinky girl!  
+- 🎨 Love sketch and kuromi ofc!
 
 ---
 
