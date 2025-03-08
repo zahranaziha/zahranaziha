@@ -16,7 +16,7 @@
 
 ---
 
-## **Tools**  
+## 🐱 **Tools**  
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,26 +32,26 @@
 
 ---
 
-## **Most Used Languages:**
+## 🌸 **Most Used Languages:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahranaziha&layout=compact&theme=tokyonight&title_color=FF69B4&text_color=FFC0CB&bg_color=000000)
 
 ---
 
-## **Zahra Naziha' GitHub Stats**
+## 🧸 **Zahra Naziha' GitHub Stats**
 
 ![Zahra' GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahranaziha&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FFC0CB&text_color=FFC0CB&bg_color=000000)
 
 ---
 
-## **GitHub Stats & Activity**
+## 🪷 **GitHub Stats & Activity**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahranaziha&theme=tokyonight&ring=FF69B4&fire=FFC0CB&sideNums=FFC0CB&currStreakLabel=FF69B4&background=000000" alt="GitHub Streak" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahranaziha&theme=react&color=FF69B4&point=FFC0CB&line=FF69B4&bg_color=000000" alt="Contribution Graph" />
 
 ---
 
-## 💌 **Let's Connect!** 💌  
+## 💌 **Let's Connect!** 
 
 <a href="https://www.linkedin.com/in/zahranaziha" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
