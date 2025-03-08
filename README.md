@@ -1,6 +1,6 @@
 # zahranaziha_
 Repository Praktikum IMK
-<h1 align="center">Hi there, I'm Zahra 👋</h1>
+<h1 align="center">Hi there, I'm Zahra Naziha👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </p>
@@ -19,7 +19,7 @@ Repository Praktikum IMK
 
 ## 🔥 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,,mysql,git,github,vscode,figma" />
 </p>
 
 ## 📈 GitHub Stats  
@@ -31,7 +31,7 @@ Repository Praktikum IMK
 
 ## 🌍 Let's Connect!
 <p align="center">
-  <a href="www.linkedin.com/in/reka-oktavia-br-sihombing-3a5760342" target="_blank">
+  <a href="www.linkedin.com/in/zahranaziha" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  <a href="[https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/zahranaziha_?igsh=MXJpOGllY2Jpcmc4dw%3D%3D&utm_source=qr)" target="_blank">
