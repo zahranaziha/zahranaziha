@@ -34,4 +34,4 @@
 
 ## Let's connect!
 
-[Email](mailto:youremail@example.com) | [Instagram]([https://instagram.com](https://www.instagram.com/zahranaziha_?igsh=MXJpOGllY2Jpcmc4dw%3D%3D&utm_source=qr)/yourinstagram) | [LinkedIn](www.linkedin.com/in/zahranaziha/in/yourlinkedin)
+[Email](mailto:nazihazahra370@gmail.com) | [Instagram]([https://instagram.com](https://www.instagram.com/zahranaziha_?igsh=MXJpOGllY2Jpcmc4dw%3D%3D&utm_source=qr)) | [LinkedIn](www.linkedin.com/in/zahranaziha)
