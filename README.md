@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/VS-J-i-CVwAAAAAi/sanrio-kuromi.gif" width="50"> Hi there, I'm Zahra! 👋 <img src="https://media.tenor.com/VS-J-i-CVwAAAAAi/sanrio-kuromi.gif" width="50">
+  <img src="https://media.tenor.com/VS-J-i-CVwAAAAAi/sanrio-kuromi.gif" width="50"> Hi there, I'm Zahra! <img src="https://media.tenor.com/VS-J-i-CVwAAAAAi/sanrio-kuromi.gif" width="50">
 </h1>
 
 <p align="center">
